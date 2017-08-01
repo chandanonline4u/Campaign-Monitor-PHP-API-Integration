@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1.4;
+}
+.container{
+  width: 980px;
+  margin: 0 auto;
+  padding: 0 25px;
+}
+.section-signup{
+  padding: 40px 0;
+}
+.custom-form .input-feild{
+  background: #f8f8f8;
+  display: block;
+  width: 100%;
+  max-width: 340px;
+  height: 45px;
+  margin: 0 0 15px 0;
+  padding: 10px 12px;
+  box-sizing: border-box;
+  box-shadow: none;
+  border: 1px solid #dedede;
+  font-size: 16px;
+  line-height: 20px;
+}
+.custom-form .btn-signup{
+  display: block;
+  height: 45px;
+  border: none;
+  background: #333;
+  color: #fff;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  box-shadow: none;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.hidden{
+  display: none;
+}
